@@ -197,10 +197,10 @@ public List<Cell> getFlaggedCells() {
 
 
 <details>
-<summary>Use Searchable Name<summary>
+<summary>Use Searchable Name</summary>
+
 
 * Single-letter names and numeric constants have a particular problem in that they are not easy to locate across a body of text.
-
     ```cpp
     for (int j=0; j<34; j++) { 
         s += (t[j]*4)/5;
